@@ -19,10 +19,4 @@ Excercise 6: Show 5 country names (Name) and GNP where governments form (Goverme
 
 Excercise 7: Show country names (Name), population (Population), and country code (Code) where the country code end with A and life expectancy (LifeExpectancy) between 70-90, from Country table! Sort by largest population size!
 
-Excercise 8:
-
-Excercise 9:
-
-Excercise 10:
-
 the excercise from JCDS Purwadhika course
